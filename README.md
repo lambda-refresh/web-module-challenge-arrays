@@ -4,8 +4,8 @@
 
 ## Objectives
 
-- use arrays to store and access data
-- use array properties and array methods
+- [x] use arrays to store and access data
+- [x] use array properties and array methods
 
 ## Introduction
 
@@ -47,4 +47,3 @@ Make sure you are invoking your function after defining and wrapping a console.l
 ## Submission format
 
 Please see canvas for cohort specific submission instructions
-
